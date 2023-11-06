@@ -282,3 +282,6 @@ section.container.header {
     margin: 0;
   }
 }
+img {
+  max-width: 100%;
+}
